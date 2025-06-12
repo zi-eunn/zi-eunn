@@ -14,8 +14,6 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zi-eunn&layout=compact)
-## 🐾 My GitHub Zoo
-
 <img src="https://github-contribution-animal.vercel.app/api?username=zi-eunn" />
 
 <!--
