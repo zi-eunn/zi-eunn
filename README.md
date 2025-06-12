@@ -14,7 +14,9 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zi-eunn&layout=compact)
-<img src="https://github-contribution-animal.vercel.app/api?username=zi-eunn" />
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/zi-eunn?pet-id=1" width="1000" height="120"/>
+</a>
 
 <!--
 **zi-eunn/zi-eunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
