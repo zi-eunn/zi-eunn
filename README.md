@@ -1,13 +1,13 @@
 ## Jieun Kim 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" height="20" />
   &nbsp;
-  <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="20" />
   &nbsp;
-  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" height="20" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" height="20" />
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zi-eunn&layout=compact)
