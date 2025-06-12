@@ -15,6 +15,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zi-eunn&layout=compact)
 <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/zi-eunn"/>
   <img src="https://render.gitanimals.org/lines/zi-eunn?pet-id=1" width="1000" height="120"/>
 </a>
 
