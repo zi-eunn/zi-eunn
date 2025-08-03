@@ -1,6 +1,5 @@
 ## Jieun Kim 👋
 - 컴퓨터공학과
-- 구름톤 DEEP DIVE 웹 풀스택 13회차 수강중
 - jieunkim1117@gmail.com
 
 <p align="left">
