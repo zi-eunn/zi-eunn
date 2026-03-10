@@ -28,7 +28,6 @@
 </a>
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=zi-eunn&theme=warm)
-<img src="http://mazandi.herokuapp.com/api?handle=zi-eunn&theme=warm"/>
 
 <!--
 **zi-eunn/zi-eunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
