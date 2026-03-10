@@ -27,7 +27,7 @@
   <img src="https://render.gitanimals.org/farms/zi-eunn"/>
 </a>
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=zi-eunn&theme=warm)
+<!--![mazandi profile](http://mazandi.herokuapp.com/api?handle=zi-eunn&theme=warm)-->
 
 <!--
 **zi-eunn/zi-eunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
