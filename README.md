@@ -20,13 +20,14 @@
     </div>    
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zi-eunn&layout=compact&theme=algolia)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zi-eunn&layout=compact&theme=algolia)-->
 ![Profile views](https://komarev.com/ghpvc/?username=zi-eunn&color=brightgreen)
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zi-eunn&theme=tokyo-night)](https://github.com/zi-eunn)
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/zi-eunn"/>
 </a>
 
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zi-eunn&theme=github)](https://github.com/zi-eunn)
 <!--
 **zi-eunn/zi-eunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
