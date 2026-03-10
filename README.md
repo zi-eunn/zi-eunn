@@ -20,7 +20,7 @@
     </div>    
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zi-eunn&layout=compact&theme=algolia)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zi-eunn&layout=compact&theme=algolia)-->
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/zi-eunn"/>
 </a>
